@@ -1,0 +1,16 @@
+Steps for using Github
+----------------------
+-first of dwnload git exe from https://git-scm.com/download/win and install it on recommended settings.
+-2nd right clk on folder area and select open with this folder with cmd
+-3rd now on this stage git folder is empty, but after  
+
+git init 		//create foldr of repository
+git status 		//status of curnt postin
+git clone [path] //
+git add file_name. //to-add untrackfile
+git commit -m "message will place here" // to-add comment
+git log 		//to view commit history
+git push 		// the folder content in which this command runs, will push to online repositry
+git add .			// to add all file to repository
+git add *.html		//by using wildcard, we only can add appropriate file extension files. 
+touch .gitignore	// for create .gitignore file auto
